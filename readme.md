@@ -60,6 +60,7 @@
 
 [ISD intranet](https://www.ucl.ac.uk/isd/intranet)  
 [Voicemail](http://pcpabx.telcomm.ucl.ac.uk/user)  
+[Basic Fire Safety](https://moodle.ucl.ac.uk/course/view.php?id=39149)
 
 [SMS](http://www.e-freesms.com/)  
 
