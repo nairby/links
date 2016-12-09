@@ -1,7 +1,7 @@
-#Docs
+#Docs  
 [Technical Support Repository](https://tsr.dcs.ucl.ac.uk)
 
-#Tasks
+#Tasks  
 [My tickets](https://www.ucl.ac.uk/isd/dcs/tasks/query?status=Analysis+Complete&status=Analysis+In+Progress&status=Analyst+Assigned&status=Completion+Notification&status=Implementation+Complete&status=Implementation+In+Progress&status=Implementer+Assigned&status=Owner+Assigned&status=new&analyst=%24USER&or&status=Analysis+Complete&status=Analysis+In+Progress&status=Analyst+Assigned&status=Completion+Notification&status=Implementation+Complete&status=Implementation+In+Progress&status=Implementer+Assigned&status=Owner+Assigned&status=new&implementor=%24USER&or&owner=%24USER&status=Analysis+Complete&status=Analysis+In+Progress&status=Analyst+Assigned&status=Completion+Notification&status=Implementation+Complete&status=Implementation+In+Progress&status=Implementer+Assigned&status=Owner+Assigned&status=new&group=status&col=id&col=summary&col=analyst&col=implementor&col=type&col=priority&col=milestone&col=component&col=time&col=changetime&col=pname&col=sname&col=totalhours&col=estimatedhours&col=reporter&report=7&order=priority)  
 [SOS tickets](https://www.ucl.ac.uk/isd/dcs/tasks/query?status=Analysis+Complete&status=Analysis+In+Progress&status=Analyst+Assigned&status=Completion+Notification&status=Implementation+Complete&status=Implementation+In+Progress&status=Implementer+Assigned&status=Owner+Assigned&status=new&component=Servers+and+Operating+Systems&group=status&col=id&col=summary&col=status&col=type&col=priority&col=milestone&col=time&col=changetime&col=totalhours&col=implementor&col=estimatedhours&col=analyst&col=reporter&report=79&order=milestone)  
 
