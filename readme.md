@@ -88,6 +88,6 @@
 [ADTEST](https://myaccount-pp.ucl.ac.uk/admin)  
 [ADDEV](https://myaccount-dev.ucl.ac.uk/admin)  
 
-#Security
+#Updates  
 
-[Security Update Guide](https://portal.msrc.microsoft.com/en-us/security-guidance)  
+[Security Update Guide](https://portal.msrc.microsoft.com/en-gb/security-guidance)  
