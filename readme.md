@@ -23,7 +23,7 @@
 [AD](https://wwwapps-live.ucl.ac.uk/isd/rarm/public)  
 [ADTEST](https://wwwapps-uat.ucl.ac.uk/isd/idapps/apps/rarm/public/)  
 [ADTEST (old)](https://wwwapps-uat.ucl.ac.uk/isd/rarm/public)  
-[ADDEV](https://wwwapps-dev.ucl.ac.uk/isd/rarm/public/)  
+[ADDEV](https://wwwapps-dev.ucl.ac.uk/isd/idapps/apps/rarm/public/)  
 
 #Monitoring
 
